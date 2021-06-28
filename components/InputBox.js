@@ -68,6 +68,7 @@ function InputBox() {
     width={40}
     height={40}
     layout="fixed"
+    alt="Profile"
     />
 
     <form className="flex flex-1">
